@@ -69,3 +69,4 @@ C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\BankaProjesi\Udemy.BankApp\Udemy.B
 C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\BankaProjesi\Udemy.BankApp\Udemy.BankApp.Web\obj\Debug\net5.0\Razor\Views\Account\Create.cshtml.g.cs
 C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\BankaProjesi\Udemy.BankApp\Udemy.BankApp.Web\obj\Debug\net5.0\Udemy.BankApp.Web.csproj.AssemblyReference.cache
 C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\BankaProjesi\Udemy.BankApp\Udemy.BankApp.Web\obj\Debug\net5.0\Razor\Views\Account\GetByUserId.cshtml.g.cs
+C:\Users\umurg\Desktop\Udemy Yavuz Selim Hoca\BankaProjesi\Udemy.BankApp\Udemy.BankApp.Web\obj\Debug\net5.0\Razor\Views\Account\SendMoney.cshtml.g.cs

@@ -24,7 +24,8 @@
                     <div class="card-body">
                         <h5 class="card-title">Hesap Numarası : @account.AccountNumber</h5>
                         <p class="card-text">Bakiye Bilgisi : @account.Balance</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <a asp-action="SendMoney" asp-controller="Account" asp-route-accountId="@account.Id" class="btn btn-primary">
+                            Para Gönder</a>
                     </div>
                 </div>
             }
